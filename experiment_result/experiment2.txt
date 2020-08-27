@@ -1,0 +1,16 @@
+INFO:tensorflow:Saving dict for global step 4385: eval_accuracy = 0.96087986, eval_loss = 0.21870182, global_step = 4385, loss = 0.21860412
+I1122 22:19:06.615328 139650500826944 estimator.py:2039] Saving dict for global step 4385: eval_accuracy = 0.96087986, eval_loss = 0.21870182, global_step = 4385, loss = 0.21860412
+INFO:tensorflow:Saving 'checkpoint_path' summary for global step 4385: /home/cy/Desktop/MyTask_output_data4/model.ckpt-4385
+I1122 22:19:06.957965 139650500826944 estimator.py:2099] Saving 'checkpoint_path' summary for global step 4385: /home/cy/Desktop/MyTask_output_data4/model.ckpt-4385
+INFO:tensorflow:evaluation_loop marked as finished
+I1122 22:19:06.958351 139650500826944 error_handling.py:96] evaluation_loop marked as finished
+INFO:tensorflow:***** Eval results *****
+I1122 22:19:06.958462 139650500826944 run_classifier.py:964] ***** Eval results *****
+INFO:tensorflow:  eval_accuracy = 0.96087986
+I1122 22:19:06.958525 139650500826944 run_classifier.py:966]   eval_accuracy = 0.96087986
+INFO:tensorflow:  eval_loss = 0.21870182
+I1122 22:19:06.958676 139650500826944 run_classifier.py:966]   eval_loss = 0.21870182
+INFO:tensorflow:  global_step = 4385
+I1122 22:19:06.958762 139650500826944 run_classifier.py:966]   global_step = 4385
+INFO:tensorflow:  loss = 0.21860412
+I1122 22:19:06.958853 139650500826944 run_classifier.py:966]   loss = 0.21860412

@@ -1,0 +1,16 @@
+INFO:tensorflow:Saving dict for global step 2192: eval_accuracy = 0.9595331, eval_loss = 0.18915918, global_step = 2192, loss = 0.18907592
+I1121 07:25:29.551307 140202627749696 estimator.py:2039] Saving dict for global step 2192: eval_accuracy = 0.9595331, eval_loss = 0.18915918, global_step = 2192, loss = 0.18907592
+INFO:tensorflow:Saving 'checkpoint_path' summary for global step 2192: /home/cy/Desktop/MyTask_output_data2/model.ckpt-2192
+I1121 07:25:29.896262 140202627749696 estimator.py:2099] Saving 'checkpoint_path' summary for global step 2192: /home/cy/Desktop/MyTask_output_data2/model.ckpt-2192
+INFO:tensorflow:evaluation_loop marked as finished
+I1121 07:25:29.896709 140202627749696 error_handling.py:96] evaluation_loop marked as finished
+INFO:tensorflow:***** Eval results *****
+I1121 07:25:29.896869 140202627749696 run_classifier.py:964] ***** Eval results *****
+INFO:tensorflow:  eval_accuracy = 0.9595331
+I1121 07:25:29.896971 140202627749696 run_classifier.py:966]   eval_accuracy = 0.9595331
+INFO:tensorflow:  eval_loss = 0.18915918
+I1121 07:25:29.897158 140202627749696 run_classifier.py:966]   eval_loss = 0.18915918
+INFO:tensorflow:  global_step = 2192
+I1121 07:25:29.897231 140202627749696 run_classifier.py:966]   global_step = 2192
+INFO:tensorflow:  loss = 0.18907592
+I1121 07:25:29.897294 140202627749696 run_classifier.py:966]   loss = 0.18907592
